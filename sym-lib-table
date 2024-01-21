@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "MOUDLE-SEEEDUINO-XIAO-ESP32C3")(type "KiCad")(uri "${KIPRJMOD}/lib/Seeeduino xiao ESP32C3 KiCAD Library/MOUDLE-SEEEDUINO-XIAO-ESP32C3.kicad_sym")(options "")(descr ""))
+  (lib (name "74LVC1G17W5-7")(type "KiCad")(uri "${KIPRJMOD}/lib/74LVC1G17W5-7/74LVC1G17W5-7.kicad_sym")(options "")(descr ""))
+)

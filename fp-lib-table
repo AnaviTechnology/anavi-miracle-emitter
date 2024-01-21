@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "xiao ESP32C3_PCB")(type "KiCad")(uri "${KIPRJMOD}/lib/Seeeduino xiao ESP32C3 KiCAD Library/xiao ESP32C3_PCB.pretty")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "${KIPRJMOD}/lib/logo.pretty")(options "")(descr ""))
+  (lib (name "SOT95P280X145-5N")(type "KiCad")(uri "${KIPRJMOD}/lib/74LVC1G17W5-7/SOT95P280X145-5N.pretty")(options "")(descr ""))
+)
